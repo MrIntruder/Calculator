@@ -1,5 +1,5 @@
 # Calculator
-My First Bash project
+First Bash project
 
 A Simple calculator to do simple calculations
 
